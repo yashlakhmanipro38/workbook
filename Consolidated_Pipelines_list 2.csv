@@ -1,0 +1,86 @@
+Pipeline name,Cloned Pipeline name,Table Names,Table Type,Workspace path,Workspace cloned path,Status
+Accoustic_ADB_Raw_Curated_Zone,,kcd.clx_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Master_Notebooks/Master_Pipeline_Clorox_Events,,
+Accoustic_Brita_ADB_Raw_Curated_Zone_copy1,,kcd.brita_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Master_Notebooks/Master_Pipeline_Brita_Events,,
+Accoustic_GLAD_ADB_Raw_Curated_Zone,,kcd.hvr_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Master_Notebooks/Master_Pipeline_HVR_Events,,
+Accoustic_HVR_ADB_Raw_Curated_Zone,,kcd.hvr_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Master_Notebooks/Master_Pipeline_HVR_Events,,
+Accoustic_Kingsford_ADB_Raw_Curated_Zone,,kcd.kf_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Master_Notebooks/Master_Pipeline_Kingsford_Events,,
+Accoustic_Pinesol_ADB_Raw_Curated_Zone,,kcd.brita_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Master_Notebooks/Master_Pipeline_Brita_Events,,
+Accoustic_PPR_ADB_Raw_Curated_Zone,,kcd.ppr_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Master_Notebooks/Master_Pipeline_PPR_Events,,
+Master_Acoustic_Brita_Pipeline,,kcd.acoustic_run_history_details ,Managed Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Acoustic dataload/01_Acoustic_Data_Export,,Table Created
+Master_Acoustic_Brita_Pipeline,,kcd.brita_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Acoustic dataload/01_Acoustic_Data_Export,,
+Master_Acoustic_Burts_Pipeline,,kcd.acoustic_run_history_details,Managed Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Acoustic dataload/01_Acoustic_Data_Export,,Table Created
+Master_Acoustic_Clorox_Pipeline,,kcd.clx_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Acoustic dataload/01_Acoustic_Data_Export,,
+Master_Acoustic_Clorox_Pipeline,,kcd.acoustic_run_history_details,Managed Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Acoustic dataload/01_Acoustic_Data_Export,,Table Created
+Master_Acoustic_GLAD_Pipeline,,kcd.hvr_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Acoustic dataload/01_Acoustic_Data_Export,,
+Master_Acoustic_GLAD_Pipeline,,kcd.acoustic_run_history_details,Managed Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Acoustic dataload/01_Acoustic_Data_Export,,Table Created
+Master_Acoustic_HVR_Pipeline,,kcd.hvr_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Acoustic dataload/01_Acoustic_Data_Export,,
+Master_Acoustic_HVR_Pipeline,,kcd.acoustic_run_history_details,Managed Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Acoustic dataload/01_Acoustic_Data_Export,,Table Created
+Master_Acoustic_Kingsford_Pipeline,,kcd.kf_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Acoustic dataload/01_Acoustic_Data_Export,,
+Master_Acoustic_Kingsford_Pipeline,,kcd.acoustic_run_history_details,Managed Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Acoustic dataload/01_Acoustic_Data_Export,,Table Created
+Master_Acoustic_Pinesol_Pipeline,,kcd.brita_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Acoustic dataload/01_Acoustic_Data_Export,,
+Master_Acoustic_Pinesol_Pipeline,,kcd.acoustic_run_history_details, Managed Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Acoustic dataload/01_Acoustic_Data_Export,,Table Created
+Master_Acoustic_PPR_Pipeline,,kcd.ppr_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Acoustic dataload/01_Acoustic_Data_Export,,
+Master_Acoustic_PPR_Pipeline,,kcd.acoustic_run_history_details,Managed Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Acoustic dataload/01_Acoustic_Data_Export,,Table Created
+KCD_3PD_DATAAXLE_BRITA_LYTICS_UPLOAD_ONETIME,KCD_3PD_DATAAXLE_BRITA_LYTICS_UPLOAD_ONETIME_UC,kcd.audit_logs,Managed Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,Table Created
+KCD_3PD_DATAAXLE_BRITA_LYTICS_UPLOAD_ONETIME,,kcd.3pd_enrichment_data,External Table ,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,
+KCD_3PD_DATAAXLE_BURTS_BEE_LYTICS_UPLOAD_ONETIME,,kcd.audit_logs,Managed Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,Table Created
+KCD_3PD_DATAAXLE_BURTS_BEE_LYTICS_UPLOAD_ONETIME,,kcd.3pd_enrichment_data,External Table ,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,
+KCD_3PD_DATAAXLE_CLOROX_LYTICS_UPLOAD_ONETIME,,kcd.audit_logs,Managed Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,Table Created
+KCD_3PD_DATAAXLE_CLOROX_LYTICS_UPLOAD_ONETIME,,kcd.3pd_enrichment_data,External Table ,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,
+KCD_3PD_DATAAXLE_GLAD_LYTICS_UPLOAD_ONETIME,,kcd.audit_logs,Managed Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,Table Created
+KCD_3PD_DATAAXLE_GLAD_LYTICS_UPLOAD_ONETIME,,kcd.3pd_enrichment_data,External Table ,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,
+KCD_3PD_DATAAXLE_HVR_LYTICS_UPLOAD_ONETIME,,kcd.audit_logs,Managed Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,Table Created
+KCD_3PD_DATAAXLE_HVR_LYTICS_UPLOAD_ONETIME,,kcd.3pd_enrichment_data,External Table ,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,
+KCD_3PD_DATAAXLE_KINGSFORD_LYTICS_UPLOAD_ONETIME,,kcd.audit_logs,Managed Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,Table Created
+KCD_3PD_DATAAXLE_KINGSFORD_LYTICS_UPLOAD_ONETIME,,kcd.3pd_enrichment_data,External Table ,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,
+KCD_3PD_DATAAXLE_PAWPOINTS_LYTICS_UPLOAD_ONETIME,,kcd.audit_logs,Managed Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,Table Created
+KCD_3PD_DATAAXLE_PAWPOINTS_LYTICS_UPLOAD_ONETIME,,kcd.3pd_enrichment_data,External Table ,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,
+KCD_3PD_DATAAXLE_PINE_SOL_LYTICS_UPLOAD_ONETIME,,kcd.audit_logs,Managed Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,Table Created
+KCD_3PD_DATAAXLE_PINE_SOL_LYTICS_UPLOAD_ONETIME,,kcd.3pd_enrichment_data,External Table ,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,
+KCD_3PD_DATAAXLE_RNL_LYTICS_UPLOAD_ONETIME,,kcd.audit_logs,Managed Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,Table Created
+KCD_3PD_DATAAXLE_RNL_LYTICS_UPLOAD_ONETIME,,kcd.3pd_enrichment_data,External Table ,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/LYTICS_UPLOAD/01_Lytics_Upload_Utilities_3pd,,
+KCD_SFTP_CIRCANA_CRM_LIFT_STUDY,,kcd.crmiriliftclxread2,Views,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Circana/CRM_Lift_Study/CRM_LIFT_STUDY_Upload_FILES_ADLS,,
+KCD_SFTP_CIRCANA_CRM_LIFT_STUDY,,kcd.crmiriliftclx,Views,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Circana/CRM_Lift_Study/CRM_LIFT_STUDY_Upload_FILES_ADLS,,
+KCD_3PD_DATAAXLE_BRITA_LYTICS_UPLOAD,,kcd.3pd_enrichment_data,External Table ,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,
+KCD_3PD_DATAAXLE_BRITA_LYTICS_UPLOAD,,kcd.audit_logs,Managed Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,Table Created
+KCD_3PD_DATAAXLE_BURTS_BEE_LYTICS_UPLOAD,,kcd.3pd_enrichment_data,External Table ,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,
+KCD_3PD_DATAAXLE_BURTS_BEE_LYTICS_UPLOAD,,kcd.audit_logs,Managed Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,Table Created
+KCD_3PD_DATAAXLE_CLOROX_LYTICS_UPLOAD,,kcd.3pd_enrichment_data,External Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,
+KCD_3PD_DATAAXLE_CLOROX_LYTICS_UPLOAD,,kcd.audit_logs,Managed Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,Table Created
+KCD_3PD_DATAAXLE_GLAD_LYTICS_UPLOAD,,kcd.3pd_enrichment_data,External Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,
+KCD_3PD_DATAAXLE_GLAD_LYTICS_UPLOAD,,kcd.audit_logs,Managed Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,Table Created
+KCD_3PD_DATAAXLE_HVR_LYTICS_UPLOAD,,kcd.3pd_enrichment_data,External Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,
+KCD_3PD_DATAAXLE_HVR_LYTICS_UPLOAD,,kcd.audit_logs,Managed Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,Table Created
+KCD_3PD_DATAAXLE_KINGSFORD_LYTICS_UPLOAD,,kcd.3pd_enrichment_data,External Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,
+KCD_3PD_DATAAXLE_KINGSFORD_LYTICS_UPLOAD,,kcd.audit_logs,Managed Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,Table Created
+KCD_3PD_DATAAXLE_PAWPOINTS_LYTICS_UPLOAD,,kcd.3pd_enrichment_data,External Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,
+KCD_3PD_DATAAXLE_PAWPOINTS_LYTICS_UPLOAD,,kcd.audit_logs,Managed Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,Table Created
+KCD_3PD_DATAAXLE_PINE_SOL_LYTICS_UPLOAD,,kcd.3pd_enrichment_data,External Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,
+KCD_3PD_DATAAXLE_PINE_SOL_LYTICS_UPLOAD,,kcd.audit_logs,Managed Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,Table Created
+KCD_3PD_DATAAXLE_RNL_LYTICS_UPLOAD,,kcd.3pd_enrichment_data,External Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,
+KCD_3PD_DATAAXLE_RNL_LYTICS_UPLOAD,,kcd.audit_logs,Managed Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779945652?o=6570979354637638,,Table Created
+Master_Pipeline_Burts_Events_Daily,,kcd.burts_braze_events,External Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779946239?o=6570979354637638,,
+Master_Pipeline_Burts_Events_Daily,,kcd.burts_web,External Table,https://adb-6570979354637638.18.azuredatabricks.net/editor/notebooks/761526779946239?o=6570979354637638,,
+Master_Pipeline_Clorox_Events_Daily,,kcd.clx_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Master_Notebooks/Master_Pipeline_Clorox_Events,,
+Master_Pipeline_Glad_Events_Daily,,kcd.glad_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Master_Notebooks/Master_Pipeline_Glad_Events,,
+Master_Pipeline_HVR_Events_Daily,,kcd.hvr_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Master_Notebooks/Master_Pipeline_HVR_Events,,
+Master_Pipeline_Kingsford_Events_Daily,,kcd.kf_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Master_Notebooks/Master_Pipeline_Kingsford_Events,,kcd.kf_acoustic_events
+Master_Pipeline_Pawpoints_Events_Daily,,kcd.ppr_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Master_Notebooks/Master_Pipeline_PPR_Events,,kcd.ppr_acoustic_events
+Master_Pipeline_PineSol_Events_Daily,,kcd.pinesole_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Master_Notebooks/Master_Pipeline_Pinesol_Events,,
+Master_Pipeline_Burts_Events_One_Time_Load,,kcd.burts_braze_events,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Onetime_Load/02_EventsData_CuratedZone_Burts_OneTime,,
+Master_Pipeline_Burts_Events_One_Time_Load,,kcd.burts_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Onetime_Load/02_EventsData_CuratedZone_Burts_OneTime,,
+Master_Pipeline_Clorox_Events_One_Time_Load,,kcd.clx_acoustic_events,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Onetime_Load/02_EventsData_CuratedZone_Clorox_OneTime,,
+Master_Pipeline_Clorox_Events_One_Time_Load,, kcd.clx_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Onetime_Load/02_EventsData_CuratedZone_Clorox_OneTime,,
+Master_Pipeline_Glad_Events_One_Time_Load,,kcd.glad_acoustic_events,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Onetime_Load/02_EventsData_CuratedZone_Glad_OneTime,,
+Master_Pipeline_Glad_Events_One_Time_Load,,kcd.glad_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Onetime_Load/02_EventsData_CuratedZone_Glad_OneTime,,
+Master_Pipeline_HVR_Events_One_Time_Load,,kcd.hvr_acoustic_events,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Onetime_Load/02_EventsData_CuratedZone_HVR_OneTime,,
+Master_Pipeline_HVR_Events_One_Time_Load,,kcd.hvr_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Onetime_Load/02_EventsData_CuratedZone_HVR_OneTime,,
+Master_Pipeline_Kingsford_Events_One_Time_Load,,kcd.kf_acoustic_events,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Onetime_Load/02_EventsData_CuratedZone_Kingsford_OneTime,,
+Master_Pipeline_Kingsford_Events_One_Time_Load,,kcd.kf_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Onetime_Load/02_EventsData_CuratedZone_Kingsford_OneTime,,
+Master_Pipeline_Pawpoints_Events_One_Time_Load,,kcd.ppr_acoustic_events,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Onetime_Load/02_EventsData_CuratedZone_PPR_OneTime,,
+Master_Pipeline_Pawpoints_Events_One_Time_Load,,kcd.ppr_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Onetime_Load/02_EventsData_CuratedZone_PPR_OneTime,,
+Master_Pipeline_PineSol_Events_One_Time_Load,,kcd.pinesol_acoustic_events,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Onetime_Load/02_EventsData_CuratedZone_Pinesol_OneTime,,
+Master_Pipeline_PineSol_Events_One_Time_Load,,kcd.pinesol_web,External Table,/Workspace/Repos/KCD/clx-mktg-kcd-lytics_databricks/KCD/Onetime_Load/02_EventsData_CuratedZone_Pinesol_OneTime,,
+,,,,,,
+,,,,,,
+,,,,,,
