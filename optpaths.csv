@@ -1,0 +1,5 @@
+hive_table_name,hive_table_path,table_type,UC_table_name,UC_table_path
+opt.adls_landing_file_logger,dbfs:/mnt/audit_logs/adls_landing_file_logger,External,mktuatkcd.opt.adls_landing_file_logger,abfss://clx-datalake-all@stssemktuatkcd01.dfs.core.windows.net/uc/uc-data/clx-audit-logs/adls_landing_file_logger
+opt.lytics_audit_logs,dbfs:/mnt/audit_logs/lytics_audit_log,External,mktuatkcd.opt.lytics_audit_logs,abfss://clx-datalake-all@stssemktuatkcd01.dfs.core.windows.net/uc/uc-data/clx-audit-logs/lytics_audit_log
+opt.profiles_audit_logs,dbfs:/mnt/audit_logs/profiles_audit_log,External,mktuatkcd.opt.profiles_audit_logs,abfss://clx-datalake-all@stssemktuatkcd01.dfs.core.windows.net/uc/uc-data/clx-audit-logs/profiles_audit_log
+opt.sftp_file_logger,dbfs:/mnt/audit_logs/sftp_file_logger,External,mktuatkcd.opt.sftp_file_logger,abfss://clx-datalake-all@stssemktuatkcd01.dfs.core.windows.net/uc/uc-data/clx-audit-logs/sftp_file_logger
